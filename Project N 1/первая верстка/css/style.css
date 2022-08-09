@@ -1,0 +1,116 @@
+body {
+  background-color: #e8e8e8;
+  background: url(../img/ellipse_1_copy_4.png) 50% 130px no-repeat;
+}
+
+.content {
+  padding: 125px 0 137px 0;
+  max-width: 841px;
+  margin: 0px auto;
+}
+
+.titule {
+  text-align: center;
+  display: block;
+}
+
+.Travel {
+  opacity: 0.6;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 14px;
+  text-transform: uppercase;
+  color: #273d46;
+  letter-spacing: 0.2em;
+}
+
+.text1 {
+  font-family: "Times New Roman";
+  font-size: 36px;
+  line-height: 50px;
+  color: #273d46;
+  max-width: 725px;
+  max-height: 75px;
+}
+
+.img1 {
+  padding: 10px 10px 10px 10px;
+  background-color: white;
+  margin: 70px 0 97px 0;
+  box-shadow: 0px 15px 65px 0 rgba(15, 16, 16, 0.15);
+  max-width: 100%;
+}
+
+.text2 {
+  padding: 0 45px 0 45px;
+  opacity: 0.8;
+  font-family: "Times New Roman", Times, serif;
+  font-size: 24px;
+  line-height: 1.67;
+  letter-spacing: normal;
+  color: rgba(39, 61, 70, 0.8);
+}
+
+.list {
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 20px;
+}
+
+.list1li li {
+  list-style-type: none;
+  background: url(../img/check_icon_37.png) left no-repeat;
+  padding: 0 0px 0 30px;
+}
+
+.list1li li:nth-child(1) {
+  line-height: 36px;
+  text-shadow: 0px 1px 0px rgba(0, 0, 0, 0.3);
+  color: #273d46;
+}
+
+.list1li li:nth-child(2) {
+  font-family: Arial;
+  line-height: 36px;
+  font-style: italic;
+  color: #80b7b3;
+}
+
+.list1li li:nth-child(3) {
+  font-family: Arial;
+  font-weight: 700;
+  line-height: 36px;
+  color: #273d46;
+}
+
+.list1li li:nth-child(4) {
+  font-family: Arial;
+  line-height: 36px;
+  text-decoration: line-through;
+  color: #273d46;
+}
+
+.list1li li:nth-child(4) span {
+  opacity: 0.3;
+}
+
+.button {
+  font-family: Arial;
+  display: inline-block;
+  margin: 0px 0px 0 38px;
+  box-shadow: 0px 6px 40px 0px rgba(128, 183, 179, 0.54);
+  font-size: 14px;
+  line-height: 44px;
+  width: 205px;
+  text-transform: uppercase;
+  border-radius: 35px;
+  background-color: #80b7b3;
+}
+
+.button span {
+  display: inline-block;
+  color: #e8e8e8;
+  padding: 0 0px 0 45px;
+}
+
+.button a span:after {
+  background: url(../img/shape_2_9.png) right no-repeat;
+}/*# sourceMappingURL=style.css.map */
